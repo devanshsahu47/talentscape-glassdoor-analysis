@@ -1,4 +1,9 @@
-pandas
-numpy
-matplotlib
-seaborn
+# requirements.txt
+pandas==1.5.0
+numpy==1.22.0
+matplotlib==3.5.1
+seaborn==0.11.2
+jupyter==1.0.0
+
+```bash
+pip install -r requirements.txt
